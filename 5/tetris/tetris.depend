@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1590114597 source:d:\Мои проекты С++14\tetris\tetris\main.c
+	"headers.h"
+
+1514140582 d:\Мои проекты С++14\tetris\tetris\resource.h
+
+1514140582 source:d:\Мои проекты С++14\tetris\tetris\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1590113104 source:d:\Мои проекты С++14\tetris\tetris\util.c
+	"headers.h"
+
+1590114510 d:\Мои проекты С++14\tetris\tetris\headers.h
+	<windows.h>
+	<string.h>
+	<malloc.h>
+	<stddef.h>
+	<stdbool.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	"figure.h"
+	"game.h"
+
+1590113104 d:\Мои проекты С++14\tetris\tetris\util.h
+
+1590057912 d:\Мои проекты С++14\tetris\tetris\game.h
+
+1590114444 source:d:\Мои проекты С++14\tetris\tetris\game.c
+	"headers.h"
+
+1589416383 d:\Мои проекты С++14\tetris\tetris\figure.h
+
+1589416383 source:d:\Мои проекты С++14\tetris\tetris\figure.c
+	"headers.h"
+
